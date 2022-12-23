@@ -54,7 +54,8 @@ int main(){
     cout << endl;
   }
 }
-	#2. Menampilkan angka yang ingin ditampilkan (yang habis dibagi 3, 5, dan 7)
+	
+#2. Menampilkan angka yang ingin ditampilkan (yang habis dibagi 3, 5, dan 7)
 	#include <iostream>
 using namespace std;
 
