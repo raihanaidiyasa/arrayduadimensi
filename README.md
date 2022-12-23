@@ -8,6 +8,7 @@
    Pada array dua dimensi, kita akan mencoba untuk menukar inputan baris dan kolom, dan juga menampilkan angka-angka yang kita ingin tampilkan.
 ## Source Code
    #1. Menukar inputan baris dan kolom
+   
    	#include <iostream>
 	using namespace std;
 
@@ -56,6 +57,7 @@
 	}
 	
 #2. Menampilkan angka yang ingin ditampilkan (yang habis dibagi 3, 5, dan 7)
+
 	#include <iostream>
 	using namespace std;
 
